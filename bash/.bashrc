@@ -20,11 +20,11 @@ alias mkdir="mkdir -p"
 alias reboot="sudo reboot"
 alias shutdown="sudo shutdown -h now"
 
-alias ls='eza --icons --color=always'
-alias sl='eza --icons --color=always'
-alias tree='eza --all --icons --sort=type -T'
-alias ll='eza -laghm@ --all --icons --git --color=always'
-alias l="eza -lTag --level=4 --icons=always"
+# alias ls='eza --icons --color=always'
+#alias sl='eza --icons --color=always'
+#alias tree='eza --all --icons --sort=type -T'
+#alias ll='eza -laghm@ --all --icons --git --color=always'
+#alias l="eza -lTag --level=4 --icons=always"
 
 # Git
 # alias ga="git add ."
