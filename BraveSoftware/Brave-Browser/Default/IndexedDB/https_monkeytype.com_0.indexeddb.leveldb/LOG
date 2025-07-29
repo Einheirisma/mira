@@ -1,0 +1,14 @@
+2025/07/29-01:46:51.838 b348 Reusing MANIFEST /home/loki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/29-01:46:51.839 b348 Recovering log #91
+2025/07/29-01:46:51.839 b348 Reusing old log /home/loki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000091.log 
+2025/07/29-01:46:51.840 b348 Delete type=2 #89
+2025/07/29-01:46:51.889 b348 Level-0 table #96: started
+2025/07/29-01:46:51.891 b348 Level-0 table #96: 4378 bytes OK
+2025/07/29-01:46:51.893 b348 Delete type=0 #91
+2025/07/29-01:46:51.894 b347 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x00\x00\x05' @ 1207 : 1
+2025/07/29-01:46:51.894 b347 Compacting 1@0 + 1@1 files
+2025/07/29-01:46:51.896 b347 Generated table #97@0: 20 keys, 2941 bytes
+2025/07/29-01:46:51.896 b347 Compacted 1@0 + 1@1 files => 2941 bytes
+2025/07/29-01:46:51.897 b347 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/29-01:46:51.898 b347 Delete type=2 #96
+2025/07/29-01:46:51.898 b347 Manual compaction at level-0 from '\x00\x18\x00\x00\x05' @ 1207 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)

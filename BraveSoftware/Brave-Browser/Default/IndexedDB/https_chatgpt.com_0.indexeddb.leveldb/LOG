@@ -1,0 +1,6 @@
+2025/07/26-01:49:24.897 990b Creating DB /home/loki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb since it was missing.
+2025/07/26-01:49:24.901 990b Reusing MANIFEST /home/loki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/26-01:54:52.114 990c Level-0 table #5: started
+2025/07/26-01:54:52.116 990c Level-0 table #5: 21538 bytes OK
+2025/07/26-01:54:52.118 990c Delete type=0 #3
+2025/07/26-01:54:52.119 990c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
